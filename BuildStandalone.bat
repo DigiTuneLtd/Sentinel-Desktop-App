@@ -1,0 +1,1 @@
+pyinstaller DigiTune_Configurator.py --clean --noconfirm --windowed --icon=Logo.ico --add-data="Programmers/*;.
